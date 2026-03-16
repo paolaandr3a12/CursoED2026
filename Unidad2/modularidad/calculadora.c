@@ -10,7 +10,7 @@ int main(){
 
     while (opcion !=5){
     // menu principal
-    printf("=== CALCULADORA GEOME ===\n");
+    printf("  CALCULADORA GEOMETRICA  \n");
     printf("1. Area del circulo\n");
     printf("2. Area del cuadrado\n");
     printf("3. Volumen de la esfera\n");
